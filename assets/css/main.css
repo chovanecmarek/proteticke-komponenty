@@ -1,0 +1,17 @@
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  color: blue;
+}
+
+.nav-link {
+  color: #B59E66;
+}
+
+.nav-pills .nav-link.active {
+  color: #B59E66;
+  background-color: white;
+  text-decoration: underline;
+}
